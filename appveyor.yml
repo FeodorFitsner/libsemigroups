@@ -1,3 +1,5 @@
+image: Previous Visual Studio 2015
+
 # set clone depth
 clone_depth: 5                  # clone entire repository history if not defined
 
